@@ -1,0 +1,23 @@
+h1. WysiHat Engine Demo
+
+A simple demo for the "WysiHat Engine":http://github.com/80beans/wysihat-engine/
+
+h2. Installation
+
+Getting the demo up and running is simple, just clone it;
+
+bc. git://github.com/80beans/wysihat-engine-demo.git
+
+Run the migrations;
+
+bc. rake db:migrate
+
+And start your server;
+
+bc. script/server
+
+Have fun ;)
+
+h2. License
+
+Copyright (c) 2009 80beans, released under the MIT license
