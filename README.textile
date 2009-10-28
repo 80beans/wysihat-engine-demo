@@ -6,11 +6,7 @@ h2. Installation
 
 Getting the demo up and running is simple, just clone it;
 
-bc. git://github.com/80beans/wysihat-engine-demo.git
-
-Run the migrations;
-
-bc. rake db:migrate
+bc. git clone git://github.com/80beans/wysihat-engine-demo.git
 
 And start your server;
 
