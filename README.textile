@@ -1,6 +1,6 @@
 h1. WysiHat Engine Demo
 
-A simple demo for the "WysiHat Engine":http://github.com/80beans/wysihat-engine/
+A simple demo for "WysiHat Engine":http://github.com/80beans/wysihat-engine/.
 
 h2. Installation
 
@@ -8,11 +8,17 @@ Getting the demo up and running is simple, just clone it;
 
 bc. git clone git://github.com/80beans/wysihat-engine-demo.git
 
-And start your server;
+@cd@ to the project;
+
+bc. cd wysihat-engine-demo
+
+Start your server;
 
 bc. script/server
 
-Have fun ;)
+And check out "localhost:3000":http://localhost:3000 in your browser.
+
+Simple, wasn't it? Have fun ;)                                   
 
 h2. License
 
