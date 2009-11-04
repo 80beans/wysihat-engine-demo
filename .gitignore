@@ -2,3 +2,4 @@
 log/*.log
 tmp/**/*
 public/system
+db/development.sqlite3
