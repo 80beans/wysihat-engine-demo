@@ -9,7 +9,7 @@ autorequire:
 bindir: bin
 cert_chain: []
 
-date: 2009-11-05 00:00:00 +01:00
+date: 2009-11-06 00:00:00 +01:00
 default_executable: 
 dependencies: 
 - !ruby/object:Gem::Dependency 
@@ -23,7 +23,7 @@ dependencies:
         version: 0.9.1
     version: 
 - !ruby/object:Gem::Dependency 
-  name: thoughtbot-paperclip
+  name: paperclip
   type: :runtime
   version_requirement: 
   version_requirements: !ruby/object:Gem::Requirement 
