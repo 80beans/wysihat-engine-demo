@@ -1,7 +1,7 @@
 --- !ruby/object:Gem::Specification 
 name: wysihat-engine
 version: !ruby/object:Gem::Version 
-  version: 0.1.7
+  version: 0.1.8
 platform: ruby
 authors: 
 - Jeff Kreeftmeijer
@@ -9,7 +9,7 @@ autorequire:
 bindir: bin
 cert_chain: []
 
-date: 2009-11-07 00:00:00 +01:00
+date: 2009-12-01 00:00:00 +01:00
 default_executable: 
 dependencies: 
 - !ruby/object:Gem::Dependency 
@@ -32,7 +32,7 @@ dependencies:
       - !ruby/object:Gem::Version 
         version: 2.3.1
     version: 
-description: A Rails engine to help integrate the 37signals WyshiHat rich text editor to your application.
+description: A Rails engine to help integrate the 37signals WysiHat rich text editor to your application.
 email: jeff@80beans.com
 executables: []
 
@@ -117,6 +117,6 @@ rubyforge_project:
 rubygems_version: 1.3.5
 signing_key: 
 specification_version: 3
-summary: A Rails engine to help integrate the 37signals WyshiHat rich text editor to your application.
+summary: A Rails engine to help integrate the 37signals WysiHat rich text editor to your application.
 test_files: []
 
