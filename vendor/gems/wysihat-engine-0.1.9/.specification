@@ -1,7 +1,7 @@
 --- !ruby/object:Gem::Specification 
 name: wysihat-engine
 version: !ruby/object:Gem::Version 
-  version: 0.1.8
+  version: 0.1.9
 platform: ruby
 authors: 
 - Jeff Kreeftmeijer
@@ -9,7 +9,7 @@ autorequire:
 bindir: bin
 cert_chain: []
 
-date: 2009-12-01 00:00:00 +01:00
+date: 2009-12-22 00:00:00 +01:00
 default_executable: 
 dependencies: 
 - !ruby/object:Gem::Dependency 
